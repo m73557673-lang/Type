@@ -1,0 +1,8 @@
+{
+  "name": "Autonomous AI-Powered Incident Commander",
+  "description": "Enterprise SRE & DevOps incident response platform investigating simulated incidents, correlating evidence, retrieving runbooks, requiring human approval for remediation, and generating postmortems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
